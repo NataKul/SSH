@@ -1,0 +1,5 @@
+﻿SMTPServer:localhost
+SMTPPort:25
+SMTPLogin:admin
+SMTPPassword:admin
+SMTPEnableSSLViaSTARTTLS:false
