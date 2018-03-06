@@ -3,4 +3,4 @@ SMTPPort:25
 SMTPLogin:admin
 SMTPPassword:admin
 SMTPEnableSSLViaSTARTTLS:false
-SSM
+SSM:true
