@@ -1,0 +1,13 @@
+<<<<<<< HEAD
+﻿SMTPServer:localhost
+SMTPPort:25
+SMTPLogin:admin
+SMTPPassword:admin
+SMTPEnableSSLViaSTARTTLS:false
+=======
+﻿SMTPServer:localhost
+SMTPPort:25
+SMTPLogin:admin
+SMTPPassword:admin
+SMTPEnableSSLViaSTARTTLS:false
+>>>>>>> 04b28ffbc81b70ee08334795cd88ef5c312e63bb
